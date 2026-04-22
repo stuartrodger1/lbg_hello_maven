@@ -6,7 +6,7 @@
 
   <groupId>com.qa</groupId>
   <artifactId>hello-maven</artifactId>
-  <version>1.6</version>
+  <version>1.7</version>
 
   <name>hello-maven</name>
   <!-- FIXME change it to the project's website -->
